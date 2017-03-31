@@ -25,7 +25,7 @@ small {
   opacity: 0;
 }
 .show-description p {
-  height: 120px;
+  height: 140px;
 }
 .show-description small {
   opacity: 1;
@@ -106,6 +106,14 @@ li {
   height: 400px;
   background-size: cover;
   background-image: url(../images/folders.jpg);
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+}
+.logo {
+  height: 400px;
+  background-size: cover;
+  background-image: url(../images/logo.jpg);
   position: relative;
   margin: 40px 0 0 0;
   border-radius: 12px;
